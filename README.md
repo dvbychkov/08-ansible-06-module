@@ -1,0 +1,67 @@
+
+«Создание собственных модулей» - «Бычков Денис Вячеславович»      
+    
+--- 
+Ссылка на my_own_collection - https://github.com/dvbychkov/my_own_collection/tree/main
+
+Основная часть
+
+1.
+
+<img src = "img/1.JPG" width = 50%>
+
+
+2. 
+
+<img src = "img/2.JPG" width = 50%>
+
+
+4. 
+
+<img src = "img/4.JPG" width = 50%>
+
+
+5.
+
+<img src = "img/5.JPG" width = 50%>
+
+
+6. 
+
+<img src = "img/6.JPG" width = 50%>
+<img src = "img/61.JPG" width = 50%>
+
+
+7.
+
+<img src = "img/7.JPG" width = 50%>
+
+
+8. 
+
+<img src = "img/8.JPG" width = 50%>
+
+
+11. 
+
+<img src = "img/11.JPG" width = 50%>
+
+
+13. 
+
+<img src = "img/13.JPG" width = 50%>
+
+
+14. 
+
+<img src = "img/14.JPG" width = 50%>
+
+
+15. 
+
+<img src = "img/15.JPG" width = 50%>
+
+
+16. 
+
+<img src = "img/16.JPG" width = 50%>
